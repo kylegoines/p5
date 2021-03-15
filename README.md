@@ -14,3 +14,6 @@ in the terminal type `npm install -g http-server` once that has installed naviga
 
 ### level up your understanding of index.js
 https://github.com/processing/p5.js/wiki/p5.js-overview 
+
+## level up javascript knowladge (very very important)
+https://eloquentjavascript.net/
